@@ -18,3 +18,17 @@ reconciliation to odg-backlog-maintenance, using one central procedure and templ
 This is contributor-process guidance only: no application, assets or rendered
 interface change; UX review N/A. Consuming changes depend on the central skill
 PR and should merge afterward. No new agent or schedule is created.
+
+## Verification and handoff
+
+Contributor routing only; no rendered profile or image references changed. Both central skill targets exist in the shared candidate.
+
+Manual routing walkthrough: individual creation/refinement uses odg-work-item;
+cross-ticket review uses odg-backlog-maintenance. Existing coverage is checked
+before new tickets. Read-only triage stays advisory; authorised maintenance keeps
+its bounded standing remit. Missing evidence yields proposals or stated limits.
+These are instruction walkthroughs, not a live scheduled-agent execution.
+
+Shared changes: https://github.com/Other-Drawer-Games/other-drawer-games/pull/16.
+Merge the shared PR before consuming PRs. Whitespace checks pass; final hosted
+checks and any repository delivery evidence are attached to the PR handoff.

@@ -7,6 +7,13 @@ and relevant flow, engineering and review procedures at that revision. Record
 the revision with evidence. If access fails, report the path and blocker and
 continue independent work using available guidance.
 
+For individual ticket writing/refinement, use the central
+[work-item skill](https://github.com/Other-Drawer-Games/other-drawer-games/blob/main/.agents/skills/odg-work-item/SKILL.md),
+including its check for existing coverage. For cross-ticket relevance, duplicates,
+dependencies or delivery status, use the
+[backlog-maintenance skill](https://github.com/Other-Drawer-Games/other-drawer-games/blob/main/.agents/skills/odg-backlog-maintenance/SKILL.md).
+Keep procedures central and preserve explicit write authority and human decisions.
+
 For public-facing copy or visuals, read the central
 [design contract](https://github.com/Other-Drawer-Games/other-drawer-games/blob/main/DESIGN.md),
 [experience philosophy](https://github.com/Other-Drawer-Games/other-drawer-games/blob/main/docs/DESIGN_EXPERIENCE_PHILOSOPHY.md)
